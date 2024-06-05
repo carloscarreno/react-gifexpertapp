@@ -1,5 +1,5 @@
 export * from './AddCategory';
 export * from './GifGrid';
-export * from './GitItem';
+export * from './GifItem';
 
 
