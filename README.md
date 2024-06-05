@@ -1,8 +1,11 @@
-# React + Vite
+# GitExpertApp
+## Autor: Carlos Carreño
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Es es mi primer proyecto en React, con la funcionalidad principal de buscar Gifs animados en https://api.giphy.com
 
-Currently, two official plugins are available:
+Que te diviertas!!.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Si tienes alguna consulta puedes contactarme en ccarrenovi@gmail.com
+
+
+
